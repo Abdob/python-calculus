@@ -15,3 +15,7 @@ pip3 install pillow
 
 python3 -m pip install matplotlib
 
+
+## on windows
+python -m pip install matplotlib
+
